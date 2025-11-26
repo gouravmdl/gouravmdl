@@ -1,6 +1,6 @@
 # gouravmdl
 
-this is my first Git repository.
+this is my first git repository.
 <br>
 Author - Gourav Raj Mandal
 
